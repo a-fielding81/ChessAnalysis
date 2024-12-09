@@ -5,9 +5,6 @@
 <p align="center">
 	<em>Mastering Chess Outcomes with Predictive Precision</em>
 </p>
-<p align="center">
-	<img src="https://img.shields.io/github/languages/count/sandeepsalwan1/ChessAnalysis?style=default&color=0080ff" alt="repo-language-count">
-</p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
 <p align="center">
