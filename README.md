@@ -45,7 +45,6 @@ ChessAnalysis is an innovative open-source project designed to enhance chess str
 | 🔌 | **Integrations**  | <ul><li>Docker integration for containerization.</li><li>Potential integration with data sources as indicated by data gathering notebooks.</li><li>No explicit mention of integration with external APIs or services.</li></ul> |
 | 🧩 | **Modularity**    | <ul><li>Project appears to be modular with separate notebooks for different phases of the project.</li><li>Code separation between data collection, processing, and analysis.</li><li>Modular use of Python and HTML files for specific tasks.</li></ul> |
 | ⚡️  | **Performance**   | <ul><li>Performance considerations   in model training and data processing.</li><li>No specific performance optimization techniques documented.</li><li>Performance analysis   be part of the notebook discussions.</li></ul> || 📦 | **Dependencies**  | <ul><li>Depends on Docker, Python, and Jupyter Notebooks.</li><li>Uses `.env` for environment management.</li><li>Relies on external data files like `chessdataplan.txt`.</li></ul> |
-| 🚀 | **Scalability**   | <ul><li>Docker.</li><li>Jupyter Notebooks   limit scalability due to their interactive nature.</li><li>Scalability for more complex models.</li></ul> |
 ```
 
 ---
