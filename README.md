@@ -22,7 +22,6 @@
   - [☑️ Prerequisites](#-prerequisites)
   - [⚙️ Installation](#-installation)
   - [🤖 Usage](#🤖-usage)
-  - [🧪 Testing](#🧪-testing)
 - [📌 Project Roadmap](#-project-roadmap)
 - [🔰 Contributing](#-contributing)
 - [🎗 License](#-license)
@@ -45,11 +44,8 @@ ChessAnalysis is an innovative open-source project designed to enhance chess str
 | 📄 | **Documentation** | <ul><li>Documentation includes detailed Jupyter Notebooks.</li><li>Use of markdown within notebooks for explanations.</li><li>Minimal external documentation, relying heavily on in-notebook annotations.</li></ul> |
 | 🔌 | **Integrations**  | <ul><li>Docker integration for containerization.</li><li>Potential integration with data sources as indicated by data gathering notebooks.</li><li>No explicit mention of integration with external APIs or services.</li></ul> |
 | 🧩 | **Modularity**    | <ul><li>Project appears to be modular with separate notebooks for different phases of the project.</li><li>Code separation between data collection, processing, and analysis.</li><li>Modular use of Python and HTML files for specific tasks.</li></ul> |
-| 🧪 | **Testing**       | <ul><li>No explicit mention of testing frameworks or test cases.</li><li>Testing may be informal or conducted within the Jupyter Notebooks themselves.</li><li>Lack of formal testing could be a point of concern for reliability.</li></ul> |
-| ⚡️  | **Performance**   | <ul><li>Performance considerations   in model training and data processing.</li><li>No specific performance optimization techniques documented.</li><li>Performance analysis   be part of the notebook discussions.</li></ul> |
-| 🛡️ | **Security**      | <ul><li>No explicit security measures mentioned.</li><li>Use of Docker   provide some level of isolation.</li><li>Security not a primary focus as per the provided details.</li></ul> |
-| 📦 | **Dependencies**  | <ul><li>Depends on Docker, Python, and Jupyter Notebooks.</li><li>Uses `.env` for environment management.</li><li>Relies on external data files like `chessdataplan.txt`.</li></ul> |
-| 🚀 | **Scalability**   | <ul><li>Scalability not directly addressed but could be inferred from the use of Docker.</li><li>Jupyter Notebooks   limit scalability due to their interactive nature.</li><li>Scalability considerations   need to be addressed for larger datasets or more complex models.</li></ul> |
+| ⚡️  | **Performance**   | <ul><li>Performance considerations   in model training and data processing.</li><li>No specific performance optimization techniques documented.</li><li>Performance analysis   be part of the notebook discussions.</li></ul> || 📦 | **Dependencies**  | <ul><li>Depends on Docker, Python, and Jupyter Notebooks.</li><li>Uses `.env` for environment management.</li><li>Relies on external data files like `chessdataplan.txt`.</li></ul> |
+| 🚀 | **Scalability**   | <ul><li>Docker.</li><li>Jupyter Notebooks   limit scalability due to their interactive nature.</li><li>Scalability for more complex models.</li></ul> |
 ```
 
 ---
