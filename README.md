@@ -10,7 +10,7 @@
 <p align="center">
 	<!-- default option, no dependency badges. -->
 </p>
-<br>
+<br> 
 
 ## 🔗 Table of Contents
 
