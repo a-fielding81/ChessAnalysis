@@ -70,6 +70,7 @@ ChessAnalysis is an innovative open-source project designed to enhance chess str
     │   ├── lichessData.py
     │   ├── lichess_games_data.csv
     │   └── lichess_secret.py
+    ├── Chess Analysis Report Format.pdf
     └── README.md
 ```
 
@@ -81,6 +82,10 @@ ChessAnalysis is an innovative open-source project designed to enhance chess str
 		<summary><b>__root__</b></summary>
 		<blockquote>
 			<table>
+			<tr>
+				<td><b><a href='https://github.com/sandeepsalwan1/ChessAnalysis/blob/master/Chess Analysis Report Format.pdf'>Chess Analysis Report Format.pdf</a></b></td>
+				<td>- The "Chess Analysis Report Format.pdf" document serves as a comprehensive report covering our motivations, data pipeline, methods, and results. <br>- This PDF establishes what our model does, why it is important, and what relevant conclusions we were able to draw from our analysis.</td>
+			</tr>
 			</table>
 		</blockquote>
 	</details>
